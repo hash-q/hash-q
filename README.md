@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hash-q
-- 👀 I’m interested in Front-end development, Design and more.
+- 👀 I’m interested in UX/UI design, front-end development & web3
 - 🌱 I’m currently learning HTML/CSS & JavaScript. 
-- 💞️ I’m looking to collaborate on Building and shipping products that change user experiences for the better. 
+- 💞️ I’m looking to collaborate on Building and shipping products that improve user experiences. 
 - 📫 reach me on twitter: @hashq_
 
 <!---
