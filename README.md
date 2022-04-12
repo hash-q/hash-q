@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hash-q
+- 👋 Hi, I’m Hasham
 - 👀 I’m interested in UX/UI design, front-end development & web3
 - 🌱 I’m currently learning HTML/CSS & JavaScript. 
 - 💞️ I’m looking to collaborate on Building and shipping products that improve user experiences. 
